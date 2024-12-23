@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         LinkedList<Integer> ls = new LinkedList<>();
 //        LinkedList<Object> ls = new LinkedList<>();       // For storing all type of values
-//        LinkedList<String> ls = new LinkedList<>();       // For storing String type of values
+//        LinkedList<String> ls = new LinkedList<>();
 
         ls.insetAtStart(12);
         ls.insetAtStart(13);
